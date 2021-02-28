@@ -50,14 +50,15 @@ class: middle, title-slide
 
 ## My talk subtitle
 
-### Willian Vieira, .small[PhD candidate <br> + Collaborators]
+### <b>Clément Violet</b>, .small[DYNECO - LEBCO <br> + Collaborators]
 
-<br><br><br><br><br>
-[<i class="fa fa-github fa-lg" style="color:#e7e8e2"></i> WillVieira/talkTemplate](https://github.com/willvieira/talkTemplate)
+<br><br><br>
 
-[<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> @WillVieira90](https://twitter.com/willvieira90)
+[<i class="fa fa-github fa-lg" style="color:#e7e8e2"></i> clementviolet/talkTemplate](https://github.com/clementviolet/talkTemplate)
 
-[<i class="ai ai-orcid ai-lg" style="color:#e7e8e2"></i> 0000-0000-0000-0000](0000-0000-0000-0000)
+[<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> @ClementVIOLET](https://twitter.com/willvieira90)
+
+[<i class="ai ai-orcid ai-lg" style="color:#e7e8e2"></i> 0000-0001-6217-5891](https://orcid.org/0000-0001-6217-5891)
 
 .date[25/05/2021]
 
