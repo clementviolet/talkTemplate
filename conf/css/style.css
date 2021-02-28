@@ -1,6 +1,6 @@
 /*title page*/
   .title-slide {
-    background-image: url('../../images/bg.jpg'); /* Need to be 650*1350px */
+    background-image: url(../images/bg.jpg); /* Need to be 650*1350px */
     background-color: #006099;
     background-size: contain;
     border: 0px;
@@ -18,7 +18,7 @@
     width:  220px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../../images/Logo_Ifremer_RVB.png);
+    background-image: url(../images/Logo_Ifremer_RVB.png);
    }
    .uni-logo {
     content: "";
@@ -29,7 +29,7 @@
     width:  220px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../../images/logo-UBO-Blanc.png);
+    background-image: url(../images/logo-UBO-Blanc.png);
    }
   .title-slide h1 {
     color: #e7e8e2;

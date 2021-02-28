@@ -543,6 +543,6 @@ Nice people
 
 .pull-right1[
 <br>
-![:scale 90%](images/logo.png)
+![:scale 90%](conf/images/logo.png)
 ]
 -->
