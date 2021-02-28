@@ -14,22 +14,22 @@
     position: absolute;
     top:    15px;
     left:   35px;
-    height: 73px;
+    height: 60px;
     width:  220px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../../images/IE_logo_renversé.png);
+    background-image: url(../../images/Logo_Ifremer_RVB.png);
    }
    .uni-logo {
     content: "";
     position: absolute;
-    top:    32px;
+    top:    17px;
     left:   243px;
-    height: 34px;
+    height: 60px;
     width:  220px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../../images/udes.png);
+    background-image: url(../../images/logo-UBO-Blanc.png);
    }
   .title-slide h1 {
     color: #e7e8e2;
