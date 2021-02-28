@@ -57,6 +57,8 @@ class: middle, title-slide
 
 [<i class="fa fa-twitter fa-lg" style="color:#e7e8e2"></i> @WillVieira90](https://twitter.com/willvieira90)
 
+.date[25/05/2021]
+
 ---
 
 # Introduction

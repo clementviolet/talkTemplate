@@ -93,7 +93,18 @@
     margin-left: 0;
     margin-right: 0;
   }
-  
+
+  /* add date at the bottom right of the slide */
+  .date {
+    bottom: 12px;
+    font-weight: normal;
+    color: #e7e8e2;
+    opacity: .8;
+    position: absolute;
+    right: 325px;
+    font-size: 17px;
+  }
+
 /* slide pages */
   .remark-slide-content {
     font-size: 23px;
