@@ -341,13 +341,29 @@ This macro is just to easily insert text on the bottom of the slide:
 
 .code70[
 ```{markdown}
-.cite[Talluto et al. [2017](https://link) Nat. Ecol. Evol.]
+.citeb[Talluto et al. [2017](https://link) Nat. Ecol. Evol.]
 ```
 ]
 
 .center[![:scale 70%](images/Talluto1.png)]
 
-.cite[Talluto et al. [2017](https://www.nature.com/articles/s41559-017-0182) Nat. Ecol. Evol.]
+.citeb[Talluto et al. [2017](https://www.nature.com/articles/s41559-017-0182) Nat. Ecol. Evol.]
+
+---
+# Citation
+
+Or you can aad a citation at the bottom of an object (i.e: code block, text, citation.)
+
+.code70[
+```{markdown}
+.citeh[Talluto et al. [2017](https://link) Nat. Ecol. Evol.]
+```
+]
+
+.citeh[Talluto et al. [2017](https://www.nature.com/articles/s41559-017-0182) Nat. Ecol. Evol.]
+
+<br><br>
+.center[![:scale 70%](images/Talluto1.png)]
 
 ---
 # Icons
