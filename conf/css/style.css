@@ -1,7 +1,7 @@
 /*title page*/
   .title-slide {
-    background-image: url('../../images/bg.jpg');
-    background-color: #23373B;
+    background-image: url('../../images/bg.jpg'); /* Need to be 650*1350px */
+    background-color: #006099;
     background-size: contain;
     border: 0px;
     background-position: 600px 0;
@@ -66,7 +66,7 @@
   }
 
   h1 {
-    color: #000000;
+    color: #006099;
     font-size: 42px!important;
     font-weight: normal;
     margin-top: 0px;
@@ -135,13 +135,13 @@
 
 /* hyperlink color */
 a {
-  color: #42766a;
+  color: #336699;
 }
 
 /* background color of inverse slide */
 .inverse {
-    background-color: #23373B;
-    color: #d6d6d6;
+  background-color: #006099;
+  color: #FFFFFF;
 }
 .inverse h1 {
   font-size: 54px!important;

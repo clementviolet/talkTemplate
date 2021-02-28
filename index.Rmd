@@ -10,6 +10,7 @@ output:
     css: ["default", "conf/css/style.css", "conf/css/fonts.css"]
     nature:
       beforeInit: ["conf/js/gifffer.min.js", "conf/js/style-macros.js"]
+      highlightStyle: "mono-blue"
 ---
 
 ```{r setup, echo = F}
@@ -41,11 +42,11 @@ class: middle, title-slide
 
 <!-- top logo (comment to remove or edit on `conf/css/style.css:23`) -->
 <div class="lab-logo"></div>
-<!-- <div class="uni-logo"></div> -->
+<div class="uni-logo"></div>
 
 # Title of my talk template
 
-<hr width="65%" align="left" size="0.3" color="orange"></hr>
+<hr width="65%" align="left" size="0.3" color="yellow"></hr>
 
 ## My talk subtitle
 
@@ -69,7 +70,7 @@ class: middle, title-slide
 class: middle, center, inverse
 
 # How to use it?
-<hr width="100%" align="left" size="0.3" color="orange"></hr>
+<hr width="100%" align="left" size="0.3" color="yellow"></hr>
 
 ---
 # Workflow
@@ -99,7 +100,7 @@ make
 class: middle, center, inverse
 
 # Content
-<hr width="100%" align="left" size="0.3" color="orange"></hr>
+<hr width="100%" align="left" size="0.3" color="yellow"></hr>
 
 ---
 # Sections
@@ -125,7 +126,7 @@ Title sections, like the previous slide, needs to specify the following classes:
 class: middle, center, inverse
 
 # Title of my section
-<hr width="100%" align="left" size="0.3" color="orange"></hr>
+<hr width="100%" align="left" size="0.3" color="yellow"></hr>
 
 ---
 ```
@@ -382,7 +383,7 @@ You can also ajust their size with the following argument:
 class: middle, center, inverse
 
 # 📦 `{xaringanExtra}`
-<hr width="100%" align="left" size="0.3" color="orange"></hr>
+<hr width="100%" align="left" size="0.3" color="yellow"></hr>
 
 ---
 # `{xaringanExtra}`
@@ -462,7 +463,7 @@ plot(x, y)
 class: middle, center, inverse
 
 # ![:faic](js) libraries
-<hr width="100%" align="left" size="0.3" color="orange"></hr>
+<hr width="100%" align="left" size="0.3" color="yellow"></hr>
 
 
 ---
@@ -497,6 +498,15 @@ https://remarkjs.com/#1
 ---
 class: inverse
 
+# Key message here
+
+<br><br><br><br><br><br><br><br>
+
+**Special thanks to**
+
+Nice people
+
+<!--
 .pull-left1[
 <br>
 
@@ -507,9 +517,11 @@ class: inverse
 **Special thanks to**
 
 Nice people
+
 ]
 
 .pull-right1[
 <br>
 ![:scale 90%](images/logo.png)
 ]
+-->
