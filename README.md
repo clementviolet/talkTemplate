@@ -1,6 +1,6 @@
 # talkTemplate
 
-![Build](https://github.com/willvieira/talkTemplate/workflows/Build/badge.svg) [![html](https://img.shields.io/badge/read-html-blue)](https://willvieira.github.io/talkTemplate/#1) [![pdf](https://img.shields.io/badge/read-pdf-yellow)](https://willvieira.github.io/talkTemplate/slides.pdf)
+[![Build](https://github.com/clementviolet/talkTemplate/actions/workflows/build.yml/badge.svg)](https://github.com/clementviolet/talkTemplate/actions/workflows/build.yml) [![html](https://img.shields.io/badge/read-html-blue)](https://clementviolet.github.io/talkTemplate/#1) [![pdf](https://img.shields.io/badge/read-pdf-yellow)](https://clementviolet.github.io/talkTemplate/slides.pdf)
 
 ## Abstract
 
@@ -56,4 +56,4 @@ Note that if you have activated GitHub actions to build your presentation, it wi
 
 ## Slide content
 
-You can find in the [presentation](https://willvieira.github.io/talkTemplate/#1) the basic syntax to create the common elements (Sections, figures, tables, etc) along with some resourceful links.
+You can find in the [presentation](https://clementviolet.github.io/talkTemplate/#1) the basic syntax to create the common elements (Sections, figures, tables, etc) along with some resourceful links.
